@@ -113,4 +113,5 @@ Se puede usar con los adjetivos positivos del listado inicial. Con "Tonto tambie
 
 **ACTIVIDAD BUENA PARA PRACTICAR**
 
-![alt text](image.png)
+![alt text](/pics/image.png)
+
