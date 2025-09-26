@@ -101,3 +101,94 @@ er/es/sie isst – er/es/sie isst
 
  * Am Abend um 18:30 Uhr?
  *  Nein, leider nicht. Am Montagabend habe ich von 18:30 Uhr bis 20:45 Uhr Deutschkurs.
+
+# Arbeitsbuch
+ 
+## 11 - B
+
+ 1) Ich nehme einen Kaffe und _(einen)__ Kuchen
+ 2) Ich möchte __(ein)__ Brötchen mith Schinken
+ 3) Ich nehme __(eine)__ Suppe 
+ 4) Ich möchte einen Apfelsaft 
+
+**Solucion ChatGPT**
+
+ 1) Ich nehme einen Kaffee und ein Stück Kuchen
+ 2) Ich möchte ein Brötchen mit Schinken. ✅
+
+
+## 12 Im Café
+
+a. Ordnen Sie zu und sortieren Sie den Dialog.
+Palabras para usar:
+
+* möchten
+
+* tut mir leid
+
+* wünschen
+
+Diálogo con huecos:
+
+1. Sie wünschen? 
+2. möchten Sie einen Nusskuchen? 
+3.  tut mir leid, aber wir haben keinen Schokoladenkuchen mehr.
+
+Segundas frases del dialogo:
+
+4. Schade. Dann nehme ich einen Apfelkuchen => 1
+5. Ich nehme eine Tasse Tee und einen Kuchen, bitte.
+6. Nein, danke! Einen Schokoladenkuchen, bitte.
+
+Dialogo ordenado:
+
+1 - 5 - 2 - 6 - 3 - 4 - 
+
+
+## Examen - Ejercicio 7
+
+![alt text](image-3.png)
+
+
+
+Wir nehmen einen Orangensaft, einen Tee, einen Apfelsaft, ein Brot mit Käse, einen Nusskuchen und ein Fischbrötchen.
+
+**Correcion ChatGPT**
+Wir nehmen einen Tee, einen Apfelsaft, ein Brötchen mit Käse, ein Fischbrötchen und ein Stück Apfelkuchen.
+
+## Examen - Ubong neun - Ejercicio 9
+![alt text](image-4.png)
+
+Am Montag geht Sebastian um Viertel nach acht mit Matze ins Kino. 
+
+Am Dienstagabend Sebastian kocht für Freunde
+
+Am Mittwoch um Vormittag Sebastian Rad fährst
+
+Am Donnerstag um acht und dreißig Uhr Sebastian ins Fitness-Studio gehgst
+
+Am Freitag am Viertel vor siebzehn Sebastian triffst Ben
+
+Am Samstag und Sonntag Sebastian singen und Gitarre spielen
+
+**Version ChatGPT**
+
+1. Ok
+2.  ✅ Am Dienstagabend kocht Sebastian für Freunde. (Verbo segunda posicion)
+3.  ✅ Am Mittwochvormittag fährt Sebastian Rad.
+
+    🔁 “am Vormittag” → mejor como una sola palabra: Mittwochvormittag
+    ❌ “fährst” es para “du”; debe ser fährt (3. Person Singular)
+
+4. ✅ Am Donnerstag geht Sebastian um halb neun ins Fitnessstudio.
+
+    🔁 “acht und dreißig Uhr” no es natural. En alemán se usa: halb neun (= 8:30)
+    ❌ “gehgst” → error, correcto es: geht
+5. ✅ Am Freitag trifft Sebastian um Viertel vor vier Ben.
+
+    🔁 “siebzehn” = 17h = 5pm → Viertel vor fünf
+    ❌ “triffst” → error, correcto es: trifft
+
+6. ✅ Am Samstag und Sonntag singt Sebastian und spielt Gitarre.
+
+    🔁 Usa verbo en 3. persona: singt / spielt
